@@ -33,7 +33,7 @@ This process continues until a valid solution is found.
 ## ▶️ How to Run
 
 1. Clone or download this repository.
-2. Open `N_Queens.ipynb` using Jupyter Notebook.
+2. Open `Nqueens.ipynb` using Jupyter Notebook.
 3. Run the cells.
 4. Enter the required number of queens when prompted.
 
